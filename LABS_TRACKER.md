@@ -4,7 +4,7 @@
 
 | # | Вхідна лабораторна | Цільова директорія | .NET 10 | Методичка (MD) | Коментарі коду | Build (0 err) | Статус |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|
-| **Lab 01** | `OOP - Lab01` | `Lab01-Introduction` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 01** | `OOP - Lab01` | `Lab01-Introduction` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 02** | `OOP - Lab02` | `Lab02-Classes-Basics` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 03** | `OOP - Lab03` | `Lab03-Properties-Methods` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 04** | `OOP - Lab04` | `Lab04-Constructors` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
