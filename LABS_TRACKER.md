@@ -5,7 +5,7 @@
 | # | Вхідна лабораторна | Цільова директорія | .NET 10 | Методичка (MD) | Коментарі коду | Build (0 err) | Статус |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|
 | **Lab 01** | `OOP - Lab01` | `Lab01-Introduction` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
-| **Lab 02** | `OOP - Lab02` | `Lab02-Arrays` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 02** | `OOP - Lab02` | `Lab02-Arrays` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 03** | `OOP - Lab03` | `Lab03-Defining-Classes` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 04** | `OOP - Lab04` | `Lab04-Working-With-Abstraction` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 05** | `OOP - Lab05` | `Lab05-Encapsulation` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
