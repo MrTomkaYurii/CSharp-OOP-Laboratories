@@ -8,7 +8,7 @@
 | **Lab 02** | `OOP - Lab02` | `Lab02-Arrays` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 03** | `OOP - Lab03` | `Lab03-Defining-Classes` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 04** | `OOP - Lab04` | `Lab04-Working-With-Abstraction` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
-| **Lab 05** | `OOP - Lab05` | `Lab05-Encapsulation` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 05** | `OOP - Lab05` | `Lab05-Encapsulation` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 06** | `OOP - Lab06` | `Lab06-Inheritance` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 07** | `OOP - Lab07` | `Lab07-Interfaces-And-Abstraction` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 08** | `OOP - Lab08` | `Lab08-Polymorphism` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
