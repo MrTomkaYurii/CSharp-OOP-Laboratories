@@ -14,7 +14,7 @@
 | **Lab 08** | `OOP - Lab08` | `Lab08-Polymorphism` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 09** | `OOP - Lab09` | `Lab09-Generics` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 10** | `OOP - Lab10` | `Lab10-Iterators-And-Comparators` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
-| **Lab 11** | `OOP - Lab11` | `Lab11-Reflection-And-Attributes` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 11** | `OOP - Lab11` | `Lab11-Reflection-And-Attributes` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 12** | `OOP - Lab12` | `Lab12-Communication-And-Events` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 13** | `OOP - Lab13` | `Lab13-LINQ-Basics` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 14** | `OOP - Lab14` | `Lab14-Functional-Programming` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
