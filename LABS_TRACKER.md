@@ -16,7 +16,7 @@
 | **Lab 10** | `OOP - Lab10` | `Lab10-Iterators-And-Comparators` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 11** | `OOP - Lab11` | `Lab11-Reflection-And-Attributes` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 12** | `OOP - Lab12` | `Lab12-Communication-And-Events` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
-| **Lab 13** | `OOP - Lab13` | `Lab13-LINQ-Basics` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 13** | `OOP - Lab13` | `Lab13-LINQ-Basics` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 14** | `OOP - Lab14` | `Lab14-Functional-Programming` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 15** | `OOP - Lab15` | `Lab15-Streams-Files-And-Directories` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 17** | `OOP - Lab17` | `Lab17-EFCore-Code-First` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
