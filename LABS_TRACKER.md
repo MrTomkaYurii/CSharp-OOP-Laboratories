@@ -18,7 +18,7 @@
 | **Lab 12** | `OOP - Lab12` | `Lab12-Communication-And-Events` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 13** | `OOP - Lab13` | `Lab13-LINQ-Basics` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 14** | `OOP - Lab14` | `Lab14-Functional-Programming` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
-| **Lab 15** | `OOP - Lab15` | `Lab15-Streams-Files-And-Directories` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
+| **Lab 15** | `OOP - Lab15` | `Lab15-Streams-Files-And-Directories` | ✅ | ✅ | ✅ | ✅ (0 err) | `Completed` |
 | **Lab 17** | `OOP - Lab17` | `Lab17-EFCore-Code-First` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 18** | `OOP - Lab18` | `Lab18-EFCore-Entity-Relations` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
 | **Lab 19** | `OOP - Lab19` | `Lab19-EFCore-Advanced-Relations` | ⏳ | ⏳ | ⏳ | ⏳ | `Pending` |
